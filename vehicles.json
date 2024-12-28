@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nissan GT-R Nismo",
+        "type": "Car",
+        "price": "210740",
+        "image": "https:\/\/imagecdnsa.zigwheels.ae\/large\/gallery\/exterior\/30\/857\/nissan-gt-r-nismo-front-angle-low-view-427392.jpg"
+    },
+    {
+        "name": " Eicher Pro 5025T",
+        "type": "Truck",
+        "price": "40111",
+        "image": "https:\/\/www.autosbangla.com\/images\/eicher\/eicher-pro-5025t-dump-truck-img3.jpg"
+    },
+    {
+        "name": " GIXXER SF 250",
+        "type": "Bike",
+        "price": "4570",
+        "image": "https:\/\/imgd.aeplcdn.com\/1056x594\/n\/bw\/models\/colors\/suzuki-select-model-metallic-sonic-silvermetallic-triton-blue-2023-1686037570956.png?q=80"
+    }
+]
